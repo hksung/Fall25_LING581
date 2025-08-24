@@ -1,0 +1,50 @@
+# Site settings
+course_name: LING 581 Natural Language Processing 1
+course_description: This course provides a theoretical foundation as well as hands-on (lab-style) practice in computational approaches to processing natural language text. The course will have relevance to various disciplines in the humanities, sciences, computational, and technical fields. Students will gain a thorough introduction to both the basics of deep learning for NLP and the latest cutting-edge research on large language models. Students will additionally collaborate in teams on modeling and implementing natural language processing and digital text solutions.
+course_semester: "Fall 2025"
+
+baseurl: "/Fall25_LING581" # the subpath of your site, e.g. /blog/
+url: "http://hksung.github.io/" # the base hostname & protocol for your site
+
+schoolname: "RIT"
+#schoolurl: "https://www.rit.edu/liberalarts/"
+
+address: |
+    Hakyung Sung (hksgla@rit.edu)
+    Department of Psychology, College of Liberal Arts
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

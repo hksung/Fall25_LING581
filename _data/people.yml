@@ -1,0 +1,9 @@
+instructors:
+  - name: Hakyung Sung
+    profile_pic: /_images/pp/sung.jpeg
+    webpage: https://hksung.github.io/
+
+graders:
+  - name: Bea Pulido
+    profile_pic: /_images/pp/tiger.png
+    #webpage: https://en.wikipedia.org/wiki/Ron_Weasley
