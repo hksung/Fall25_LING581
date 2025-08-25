@@ -6,5 +6,5 @@ tldr: "Intro, word vectors"
 thumbnail: /static_files/presentations/lec1.png
 links:
   - name: slides
-    url: "{{ '/Slides/082625_Lecture_1_Intro_WordVect.pdf' | relative_url }}"
+    url: /Slides/082625_Lecture_1_Intro_WordVect.pdf
 ---
