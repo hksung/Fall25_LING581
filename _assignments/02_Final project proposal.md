@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-10-9T23:59:00+3:30
+date: 2025-10-09T23:59:00+3:30
 title: '2. Final project proposal'
 
 due_event: 
