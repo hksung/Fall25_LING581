@@ -59,7 +59,7 @@ This is a graded assignment: **50 points total (10% of final grade).**
 
 ---
 
-## Rubric (50 points; 10% of final grade)
+## Tentative rubric (50 points; 10% of final grade)
 
 
 | Criterion                                 | Points | Exemplary (full credit)                                                                                         | Proficient (-1–2 pts)                                      | Developing (-3–4 pts)                                | Missing/Insufficient (0) |
