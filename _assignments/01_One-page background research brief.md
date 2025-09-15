@@ -18,9 +18,11 @@ Please aim to have a working draft ready **by Oct 9** for your group check-in. T
    * One sentence stating the focus
    * 3–5 keywords
 
+
 2. **Research question / Problem**
 
    * 1–2 sentences clearly stating the core question or hypothesis
+
 
 3. **Mini annotated bibliography (3–5 papers)** — for **each** paper include:
 
