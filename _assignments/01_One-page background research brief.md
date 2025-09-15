@@ -5,7 +5,7 @@ title: '1. Background research brief'
 
 due_event: 
     type: due
-    date: 2025-10-09T23:59:00+3:30
+    date: 2025-10-10T23:59:00+3:30
     description: '1. Background research brief'
 ---
 Each groups should submit the following to prepare your background-research presentation and to seed your final presentation/paper.

@@ -5,7 +5,7 @@ title: '2. Final project proposal'
 
 due_event: 
     type: due
-    date: 2025-11-06T23:59:00+3:30
+    date: 2025-11-07T23:59:00+3:30
     description: '2. Final project proposal'
 ---
 Each group should submit a developed version of the background research brief. This proposal extends and deepens what you wrote—same project, more concrete plans for the final project. This is a graded assignment: 50 points total (10% of final grade).
