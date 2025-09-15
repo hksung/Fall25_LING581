@@ -10,7 +10,7 @@ due_event:
 ---
 Each group should submit a developed version of the background research brief. This proposal extends and deepens what you wrote—same project, more concrete plans for the final project. This is a graded assignment: 50 points total (10% of final grade).
 
-{% assign pdf = '/Files/SyllFinal_Project_Proposal.pdf' %}
+{% assign pdf = '/Files/Final_Project_Proposal.pdf' %}
 
 <!-- Inline preview (with fallback) -->
 <object
