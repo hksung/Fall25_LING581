@@ -3,7 +3,7 @@ type: lecture
 date: 2025-09-23
 title: 9. Language model, RNN 
 tldr: "RNN"
-thumbnail: /static_files/presentations/lec7.png
+thumbnail: /static_files/presentations/lec9.png
 links:
   - name: slides
     url: /Slides/092325_Lecture9_RNN.pdf
