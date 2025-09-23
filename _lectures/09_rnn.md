@@ -10,4 +10,5 @@ links:
 
 ---
 **Suggested Readings:**
+- SLP, <a href="https://web.stanford.edu/~jurafsky/slp3/3.pdf" target="_blank" rel="noopener noreferrer">Chapter 3</a>
 - SLP, <a href="https://web.stanford.edu/~jurafsky/slp3/13.pdf" target="_blank" rel="noopener noreferrer">Chapter 13</a>
