@@ -3,7 +3,7 @@ type: lecture
 date: 2025-09-30
 title: 11. LSTM  
 tldr: "LSTM"
-thumbnail: /static_files/presentations/lec9.png
+thumbnail: /static_files/presentations/lec11.png
 links:
   - name: slides
     url: /Slides/093025_Lecture11_LSTM.pdf
