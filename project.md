@@ -6,7 +6,7 @@ permalink: /project/
 
 # Group project
 
-This page presents the topics and summaries of each group project from the course. Each group explored a unique research question or application related to NLP!
+This page presents the topics and summaries of each group project from the course. Each group explores a unique research question or application related to NLP!
 
 # Project timeline
 
