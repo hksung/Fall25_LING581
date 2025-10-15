@@ -10,12 +10,14 @@ This page presents the topics and summaries of each group project from the cours
 
 # Project timeline
 
-1. Research proposal: Teams define their topic, research question, and proposed methods (Frist round 10/19 ✔️; Second round 11/7)   
-2. Background research: Literature review, data collection, and preparation of analytical framework (11/6 - 11/18) *Background researh presentation slides will be updated during this phrase*
-3. Final Presentation: In-class presentation of findings, methodology, and implications (11/20 - 12/4) *Final presentation slides will be updated during this phrase*
+1. Research proposal: Teams define their topic, research question, and proposed methods (1st R: 10/19; 2nd R: 11/7)   
+2. Background research: Literature review, data collection, and preparation of analytical framework (11/6 - 11/18) 
+3. Final Presentation: In-class presentation of findings, methodology, and implications (11/20 - 12/4)
 4. Final Paper: Full written report summarizing the study, analysis, and conclusions (12/11)
 
-----
+*Notes*: *Background researh/Fiinal presentation slides will be updated during each phrase*
+
+# Overview of group projects
 
 ## Group 1: Adapting visual LLMs for gameplay in Pokémon FireRed
 
