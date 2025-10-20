@@ -15,7 +15,7 @@ This page presents the topics and summaries of each group project from the cours
 3. Final Presentation: In-class presentation of findings, methodology, and implications (11/20 - 12/4)
 4. Final Paper: Full written report summarizing the study, analysis, and conclusions (12/11)
 
-*Notes*: *Background researh/Fiinal presentation slides will be updated during each phrase*
+*Notes*: *Background researh/Final presentation slides will be updated during each phrase*
 
 # Overview of group projects
 
