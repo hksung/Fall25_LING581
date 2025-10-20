@@ -17,7 +17,7 @@ items:
 
 - url: /project/
   name: Project
-  icon_class: fas fa-user-group
+  icon_class: fas fa-users
 
 - url: /materials/
   name: Materials
