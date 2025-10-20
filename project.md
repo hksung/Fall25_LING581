@@ -21,7 +21,7 @@ This page presents the topics and summaries of each group project from the cours
 
 ## 🔴 Group 1: Adapting visual LLMs for gameplay in Pokémon FireRed
 
-- **Members**: Leo Mai, Issac Lee, Erica Wu
+- **Members**: Leo, Issac, Erica
 - **Research question**: How can a visual large language model (VLLM) be adapted to interact with and successfully play Pokemon Fire Red?
 - **Keywords**: reinforce learning, machine learning, Pokémon, decision making, VLLM
 - Background research preseantion [slides]
@@ -31,7 +31,7 @@ This page presents the topics and summaries of each group project from the cours
 
 ## 🔴 Group 2: Generating math learning materials with LLMs
 
-- **Members**: Conrad Cox, Noah Manoucheri
+- **Members**: Conrad, Noah
 - **Research question**: How effectively can large language models (LLMs) generate accurate and course-aligned learning materials for mathematics education?
 - **Keywords**: education, learning materials, study assistance
 - Background research preseantion [slides]
@@ -41,7 +41,7 @@ This page presents the topics and summaries of each group project from the cours
 
 ## 🔴 Group 3: Hallucinations in LLMs
 
-- **Members**: Ashton Michelstein, Fariha Khan
+- **Members**: Ashton, Fariha
 - **Research question**: How do current benchmarks differ in evaluating hallucinations in LLM-based reading comprehension, and what gaps or inconsistencies affect their interpretation?
 - **Keywords**: hallucinations, reading comprehension, benchmark
 - Background research preseantion [slides]
@@ -50,7 +50,7 @@ This page presents the topics and summaries of each group project from the cours
 ---
 
 ## 🔴 Group 4: Location detection from unstructured chat messages
-- **Members**: Natalie Crowell, Olivia Croteau
+- **Members**: Natalie, Olivia
 - **Research question**: How accurately can natural language processing models identify location entities in uncleaned or informal text such as chat messages?
 - **Keywords**: NER, location extraction, noisy text
 - Background research preseantion [slides]
@@ -59,7 +59,7 @@ This page presents the topics and summaries of each group project from the cours
 ---
 
 ## 🔴 Group 5: Predicting age from social media language
-- **Members**: Angel Vasquez, Eliana Durell, Max Frohman 
+- **Members**: Angel, Eliana, Max 
 - **Research question**: What linguistic features can be leveraged to predict a writer’s age or age range in an age prediction NLP task
 - **Keywords**: age prediction, text classification, social media
 - Background research preseantion [slides]
@@ -68,7 +68,7 @@ This page presents the topics and summaries of each group project from the cours
 ---
 
 ## 🔴 Group 6: Leveraging linguistic structure for low-resource language modeling
-- **Members**: Alex Kraljic, Christopher Nokes
+- **Members**: Alex, Christopher
 - **Research question**: How does incorporating morphosyntactic information (e.g., from CoNLL-U formatted data) influence model accuracy when training NLP systems for low-resource languages?
 - **Keywords**: low-resource languages, morphosyntax, POS tagging
 - Background research preseantion [slides]
@@ -77,7 +77,7 @@ This page presents the topics and summaries of each group project from the cours
 ---
 
 ## 🔴 Group 7: Identifying idioms in English text
-- **Members**: Dan Weil, Jacob Marano
+- **Members**: Dan, Jacob
 - **Research question**: Given a dataset containing idiomatic expressions in context, how can a large language model or other NLP system accurately identify, classify, and label idioms within text?
 - **Keywords**: idiom, information extraction, classification, span identification
 - Background research preseantion [slides]
@@ -86,8 +86,17 @@ This page presents the topics and summaries of each group project from the cours
 ---
 
 ## 🔴 Group 8: Applying NLP-based modeling techniques for musical feature recognition
-- **Members**: Mildness Onyekwere, Shaun Thornton
+- **Members**: Mildness, Shaun
 - **Research question**: How effectively can NLP–based models identify and classify key musical characteristics such as pitch, duration, and mode from audio or symbolic input?
 - **Keywords**: music information retrieval, Audio Processing, Feature Extraction
+- Background research preseantion [slides]
+- Final presenation [slides]
+
+---
+
+## 🔴 Group 9: Analyzing data science discussions on Stack Overflow
+- **Members**: Atharva
+- **Research question**: Can attention-based models outperform feature-based methods in detecting low-quality posts by identifying quality-relevant text segments?
+- **Keywords**: text quality detection, low-quality posts, quality-signaling segments
 - Background research preseantion [slides]
 - Final presenation [slides]
