@@ -12,8 +12,8 @@ This page presents the topics and summaries of each group project from the cours
 
 1. Research proposal: Teams define their topic, research question, and proposed methods (1st R: 10/19; 2nd R: 11/7)   
 2. Background research: Literature review, data collection, and preparation of analytical framework (11/6 - 11/18) 
-3. Final Presentation: In-class presentation of findings, methodology, and implications (11/20 - 12/4)
-4. Final Paper: Full written report summarizing the study, analysis, and conclusions (12/11)
+3. Final presentation: In-class presentation of findings, methodology, and implications (11/20 - 12/4)
+4. Final paper: Full written report summarizing the study, analysis, and conclusions (12/11)
 
 *Notes*: *Background researh/Final presentation slides will be updated during each phrase*
 
