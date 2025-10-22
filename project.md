@@ -103,14 +103,15 @@ This page presents the topics and summaries of each group project from the cours
 
 ---
 <br>
+
 # Presentation Schedule
-| **Date**         | **Activity**                       | **Group** |
-| ---------------- | ---------------------------------- | --------- |
-| **Nov 6 (Wed)**  | Background research    | 1, 2      |
-| **Nov 11 (Mon)** | Background research    | 3, 4      |
-| **Nov 13 (Wed)** | Background research    | 5, 6      |
-| **Nov 18 (Mon)** | Background research    | 7, 8      |
-| **Nov 20 (Wed)** | Background research    | 9         |
-| **Nov 25 (Mon)** | Final project                 | 1, 2, 3   |
-| **Dec 2 (Mon)**  | Final project                 | 4, 5, 6   |
-| **Dec 4 (Wed)**  | Final project                 | 7, 8, 9   |
+| **Date**         | **Activity**               | **Group(s)** |
+| ---------------- | -------------------------- | ------------ |
+| **Nov 6**  | Background Research        | 1, 2         |
+| **Nov 11** | Background Research        | 3, 4         |
+| **Nov 13** | Background Research        | 5, 6         |
+| **Nov 18** | Background Research        | 7, 8         |
+| **Nov 20** | Background Research        | 9            |
+| **Nov 25** | Final Project Presentation | 1, 2, 3      |
+| **Dec 2**  | Final Project Presentation | 4, 5, 6      |
+| **Dec 4**  | Final Project Presentation | 7, 8, 9      |
