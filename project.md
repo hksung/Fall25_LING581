@@ -106,6 +106,7 @@ This page presents the topics and summaries of each group project from the cours
 <br>
 
 # Presentation Schedule
+
 | **Date**         | **Activity**               | **Group(s)** |
 | ---------------- | -------------------------- | ------------ |
 | **Nov 6**  | Background Research        | 1, 2         |
