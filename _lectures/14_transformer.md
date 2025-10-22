@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-20
+date: 2025-10-21
 title: 14. Transformer
 tldr: "transformer"
 thumbnail: /static_files/presentations/lec14.png
