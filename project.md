@@ -100,3 +100,17 @@ This page presents the topics and summaries of each group project from the cours
 - **Keywords**: text quality detection, low-quality posts, quality-signaling segments
 - Background research preseantion [slides]
 - Final presenation [slides]
+
+---
+<br>
+# Presentation Schedule
+| **Date**         | **Activity**                       | **Group** |
+| ---------------- | ---------------------------------- | --------- |
+| **Nov 6 (Wed)**  | Background research    | 1, 2      |
+| **Nov 11 (Mon)** | Background research    | 3, 4      |
+| **Nov 13 (Wed)** | Background research    | 5, 6      |
+| **Nov 18 (Mon)** | Background research    | 7, 8      |
+| **Nov 20 (Wed)** | Background research    | 9         |
+| **Nov 25 (Mon)** | Final project                 | 1, 2, 3   |
+| **Dec 2 (Mon)**  | Final project                 | 4, 5, 6   |
+| **Dec 4 (Wed)**  | Final project                 | 7, 8, 9   |
