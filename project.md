@@ -102,6 +102,7 @@ This page presents the topics and summaries of each group project from the cours
 - Final presenation [slides]
 
 ---
+
 <br>
 
 # Presentation Schedule
