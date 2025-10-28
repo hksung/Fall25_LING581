@@ -13,5 +13,5 @@ links:
 
 ---
 
-**Recorded Workshop:**
-- https://www.youtube.com/watch?v=5Aer7MUSuSU&t=23s
+**Link:**
+- <a href="https://www.youtube.com/watch?v=5Aer7MUSuSU&t=23s" target="_blank" rel="noopener noreferrer">Recorded Workshop</a>
