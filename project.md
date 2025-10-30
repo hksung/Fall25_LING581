@@ -118,8 +118,11 @@ This page presents the topics and summaries of each group project from the cours
 | **Dec 2**  | Final Project Presentation | 4, 5, 6      |
 | **Dec 4**  | Final Project Presentation | 7, 8, 9      |
 
+---
+
+<br>
+
 # Presentation guidelines
-- updated 10-30-2025
 
 {% assign pdf = '/Files/Presentation_Guidelines.pdf' %}
 
