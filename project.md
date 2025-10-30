@@ -117,3 +117,24 @@ This page presents the topics and summaries of each group project from the cours
 | **Nov 25** | Final Project Presentation | 1, 2, 3      |
 | **Dec 2**  | Final Project Presentation | 4, 5, 6      |
 | **Dec 4**  | Final Project Presentation | 7, 8, 9      |
+
+{% assign pdf = '/Files/Presentation_Guidelines.pdf' %}
+
+<!-- Inline preview (with fallback) -->
+<object
+  data="{{ pdf | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview isn’t available in this browser.
+    <a href="{{ pdf | relative_url }}" target="_blank" rel="noopener">Open the PDF</a>.
+  </p>
+</object>
+
+<!-- Download + open in new tab -->
+<p>
+  <a href="{{ pdf | relative_url }}" download>Download PDF</a>
+  &nbsp;|&nbsp;
+  <a href="{{ pdf | relative_url }}" target="_blank" rel="noopener">Open in new tab</a>
+</p>
