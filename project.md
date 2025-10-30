@@ -105,7 +105,7 @@ This page presents the topics and summaries of each group project from the cours
 
 <br>
 
-# Presentation Schedule
+# Presentation schedule
 
 | **Date**         | **Activity**               | **Group(s)** |
 | ---------------- | -------------------------- | ------------ |
@@ -117,6 +117,9 @@ This page presents the topics and summaries of each group project from the cours
 | **Nov 25** | Final Project Presentation | 1, 2, 3      |
 | **Dec 2**  | Final Project Presentation | 4, 5, 6      |
 | **Dec 4**  | Final Project Presentation | 7, 8, 9      |
+
+# Presentation guidelines
+- updated 10-30-2025
 
 {% assign pdf = '/Files/Presentation_Guidelines.pdf' %}
 
