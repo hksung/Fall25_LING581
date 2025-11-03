@@ -1,16 +1,24 @@
 ---
 type: assignment
 date: 2025-11-04T23:59:00+3:30
-title: '3. Assignment'
+title: '4. Final paper'
 
 due_event: 
     type: due
-    date: 2025-11-21T23:59:00+3:30
-    description: '3. Assignment'
+    date: 2025-12-11T23:59:00+3:30
+    description: '4. Final paper'
 ---
-Each group should listen to and learn other students' research interests by actively listening to 8 presentations (not your own group) and write summaries. This is a graded assignment: 50 points total (10% of final grade).
 
-{% assign pdf = '/Files/Assignment.pdf' %}
+# Format
+* **Type:** ACL Short Paper format
+* **Length:** 4 pages (excluding references)
+* **File type:** Please submit in PDF
+* **Template:**
+  * [Download Word Template](../Files/acl.docx)
+  * <a href="https://github.com/acl-org/acl-style-files" target="_blank">Open in Overleaf</a>
+* **Submission:** Upload via MyCourses → *Final Paper*
+
+{% assign pdf = '/Files/FinalPaper_Guidelines.pdf' %}
 
 <!-- Inline preview (with fallback) -->
 <object
