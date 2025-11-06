@@ -24,7 +24,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Leo, Issac, Erica
 - **Research question**: How can a visual large language model (VLLM) be adapted to interact with and successfully play Pokemon Fire Red?
 - **Keywords**: reinforce learning, machine learning, Pokémon, decision making, VLLM
-- Background research preseantion [slides](./Files/StudentPresentation/1_Isssac_Leo_Erica_110625.pdf)
+- Background research preseantion **[slides](./Files/StudentPresentation/1_Isssac_Leo_Erica_110625.pdf)**
 - Final presenation [slides]
 
 ----
@@ -34,7 +34,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Conrad, Noah
 - **Research question**: How effectively can large language models (LLMs) generate accurate and course-aligned learning materials for mathematics education?
 - **Keywords**: education, learning materials, study assistance
-- Background research preseantion [slides](./Files/StudentPresentation/2_Noah_Conrad_110625.pdf)
+- Background research preseantion **[slides](./Files/StudentPresentation/2_Noah_Conrad_110625.pdf)**
 - Final presenation [slides]
 
 ----
