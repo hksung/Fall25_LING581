@@ -4,4 +4,4 @@ date: 2025-11-6
 description: 'Student presentation 1, 2'
 hide_from_announcments: true
 ---
-Papers and slides can be found in [Project](https://hksung.github.io/Fall25_LING581/project/)
+**Background research presentation** slides can be found in [Project](https://hksung.github.io/Fall25_LING581/project/)
