@@ -44,7 +44,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Ashton, Fariha
 - **Research question**: How do current benchmarks differ in evaluating hallucinations in LLM-based reading comprehension, and what gaps or inconsistencies affect their interpretation?
 - **Keywords**: hallucinations, reading comprehension, benchmark
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/3_Ashton_Fariha_111125.pdf)**
 - Final presentation [slides]
 
 ---
@@ -71,7 +71,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Alex, Christopher
 - **Research question**: How does incorporating morphosyntactic information (e.g., from CoNLL-U formatted data) influence model accuracy when training NLP systems for low-resource languages?
 - **Keywords**: low-resource languages, morphosyntax, POS tagging
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/6_Alex_Christopher_111325.pdf)**
 - Final presentation [slides]
 
 ---
