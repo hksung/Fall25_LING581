@@ -53,7 +53,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Natalie, Olivia
 - **Research question**: How accurately can natural language processing models identify location entities in uncleaned or informal text such as chat messages?
 - **Keywords**: NER, location extraction, noisy text
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/4_Olivia_Natalie_111125.pdf)**
 - Final presentation [slides]
 
 ---
