@@ -62,7 +62,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Angel, Eliana, Max 
 - **Research question**: What linguistic features can be leveraged to predict a writer’s age or age range in an age prediction NLP task
 - **Keywords**: age prediction, text classification, social media
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/5_Max_Angel_Eliana_111325.pdf)**
 - Final presentation [slides]
 
 ---
