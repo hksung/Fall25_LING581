@@ -80,7 +80,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Dan, Jacob
 - **Research question**: Given a dataset containing idiomatic expressions in context, how can a large language model or other NLP system accurately identify, classify, and label idioms within text?
 - **Keywords**: idiom, information extraction, classification, span identification
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/7_Dan_Jacob_111825.pdf)**
 - Final presentation [slides]
 
 ---
@@ -89,7 +89,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Mildness, Shaun
 - **Research question**: How effectively can NLP–based models identify and classify key musical characteristics such as pitch, duration, and mode from audio or symbolic input?
 - **Keywords**: music information retrieval, Audio Processing, Feature Extraction
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/8_Shaun_Mildness_111825.pdf)**
 - Final presentation [slides]
 
 ---
