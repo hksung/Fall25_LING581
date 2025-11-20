@@ -98,7 +98,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Members**: Atharva
 - **Research question**: Can attention-based models outperform feature-based methods in detecting low-quality posts by identifying quality-relevant text segments?
 - **Keywords**: text quality detection, low-quality posts, quality-signaling segments
-- Background research presentation [slides]
+- Background research presentation **[slides](./Files/StudentPresentation/9_Atharvar_112025.pdf)**
 - Final presentation [slides]
 
 ---
