@@ -25,7 +25,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: How can a visual large language model (VLLM) be adapted to interact with and successfully play Pokemon Fire Red?
 - **Keywords**: reinforce learning, machine learning, Pokémon, decision making, VLLM
 - Background research presentation **[slides](./Files/StudentPresentation/1_Isssac_Leo_Erica_110625.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group1_112525.pdf)**
 
 ----
 
@@ -35,7 +35,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: How effectively can large language models (LLMs) generate accurate and course-aligned learning materials for mathematics education?
 - **Keywords**: education, learning materials, study assistance
 - Background research presentation **[slides](./Files/StudentPresentation/2_Noah_Conrad_110625.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group2_112525.pdf)**
 
 ----
 
@@ -45,7 +45,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: How do current benchmarks differ in evaluating hallucinations in LLM-based reading comprehension, and what gaps or inconsistencies affect their interpretation?
 - **Keywords**: hallucinations, reading comprehension, benchmark
 - Background research presentation **[slides](./Files/StudentPresentation/3_Ashton_Fariha_111125.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group3_112525.pdf)**
 
 ---
 
