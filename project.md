@@ -54,7 +54,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: How accurately can natural language processing models identify location entities in uncleaned or informal text such as chat messages?
 - **Keywords**: NER, location extraction, noisy text
 - Background research presentation **[slides](./Files/StudentPresentation/4_Olivia_Natalie_111125.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group4_120225.pdf)**
 
 ---
 
@@ -63,7 +63,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: What linguistic features can be leveraged to predict a writer’s age or age range in an age prediction NLP task
 - **Keywords**: age prediction, text classification, social media
 - Background research presentation **[slides](./Files/StudentPresentation/5_Max_Angel_Eliana_111325.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group5_120225.pdf)**
 
 ---
 
@@ -72,7 +72,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: How does incorporating morphosyntactic information (e.g., from CoNLL-U formatted data) influence model accuracy when training NLP systems for low-resource languages?
 - **Keywords**: low-resource languages, morphosyntax, POS tagging
 - Background research presentation **[slides](./Files/StudentPresentation/6_Alex_Christopher_111325.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group6_120225.pdf)**
 
 ---
 
