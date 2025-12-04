@@ -1,6 +1,6 @@
 ---
 type: presentation
-date: 2025-11-25
+date: 2025-12-02
 description: 'Final presentation 4, 5, 6'
 hide_from_announcments: true
 ---

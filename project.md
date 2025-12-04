@@ -81,7 +81,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: Given a dataset containing idiomatic expressions in context, how can a large language model or other NLP system accurately identify, classify, and label idioms within text?
 - **Keywords**: idiom, information extraction, classification, span identification
 - Background research presentation **[slides](./Files/StudentPresentation/7_Dan_Jacob_111825.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group7_120425.pdf)**
 
 ---
 
@@ -90,7 +90,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: How effectively can NLP–based models identify and classify key musical characteristics such as pitch, duration, and mode from audio or symbolic input?
 - **Keywords**: music information retrieval, Audio Processing, Feature Extraction
 - Background research presentation **[slides](./Files/StudentPresentation/8_Shaun_Mildness_111825.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group8_120425.pdf)**
 
 ---
 
@@ -99,7 +99,7 @@ This page presents the topics and summaries of each group project from the cours
 - **Research question**: Can attention-based models outperform feature-based methods in detecting low-quality posts by identifying quality-relevant text segments?
 - **Keywords**: text quality detection, low-quality posts, quality-signaling segments
 - Background research presentation **[slides](./Files/StudentPresentation/9_Atharvar_112025.pdf)**
-- Final presentation [slides]
+- Final presentation **[slides](./Files/StudentPresentation/F1_Group9_120425.pdf)**
 
 ---
 
